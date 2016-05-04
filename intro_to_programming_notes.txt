@@ -9,3 +9,13 @@ Code as a spoken language
     - It occurs when you set something using a single equal sign
     - It is different from declaration but the two often happen on the same line
     - If someone told you to "assign (or set) x to one” you would write “x = 1"
+- Words
+    - Keyword
+        - Reserved words that can’t be used as identifiers.
+        - Words like if / function / var / while / this / etc.
+    - Identifier (or variable name)
+        - A string of characters used for variable name, function name, parameter name, etc.
+        - An identifier must start with a letter, _ or $ but the rest can be letters, numbers, _ or $. They can’t start with numbers
+    - Operator
+        - Almost like functions. They effectively perform some action.
+        - Ex. +, -, /, *, %, >, <, >=, <=, +=, -=, /=, *=, ==, !=, ===, !===, &&, ||, in, instanceof, delete, new, void, typeof, ++, --
