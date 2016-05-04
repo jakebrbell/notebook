@@ -1,3 +1,6 @@
+# fetch new commits from the remote branch and merge them into the local master branch
+git pull [REMOTE] [BRANCH]
+
 # the command to push your repository to the remote (used once you've used the -u flag and set the upstream connecting the two branches)
 git push
 
