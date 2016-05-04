@@ -1,3 +1,20 @@
+# the command to push your repository to the remote (used once you've used the -u flag and set the upstream connecting the two branches)
+git push
+
+# the command to push your repository to the remote (origin is the name of the remote, master is the name of the branch)
+git push -u origin master
+
+# this command lists the different remotes associated with your project. there are automatically two: one to push and one to fetch. this can mostly be ignored
+git remote -v
+
+# this command adds the remote to your project's repository and tells it where to connect on github
+git remote add origin https://github.com/jakebrbell/notebook.git
+
+# this is the better command to use for moving or renaming files that are being tracked by git
+git mv fish_notes.txt fish_notes.md
+
+
+
 # shows a list of all the info from a log
 git la
 
