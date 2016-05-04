@@ -1,0 +1,23 @@
+# shows a list of all the info from a log
+git la
+
+# shows an abbreviated log (not built into git)
+git ll
+
+# shows a list of commits
+git log
+
+# makes a commit and moves the files from the staging area
+git commit -m 'message'
+
+# used to tell you which files are being tracked and their changes along with which files are untracked
+git status
+
+# used to add files to the staging area
+git add <file>
+
+# create a file in your project folder where you can keep a list of files/folders you don't want tracked/committed
+touch .gitignore
+
+# initializes a git repository by creating a hidden .git folder in your project
+git init
