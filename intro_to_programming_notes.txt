@@ -1,0 +1,11 @@
+Intro to Programming
+
+Code as a spoken language
+
+- Declaration
+    - When you declare a variable, it is just something like “var [identifier]"
+    - If someone told you to “declare a variable named x, you would write “var x"
+- Assignment
+    - It occurs when you set something using a single equal sign
+    - It is different from declaration but the two often happen on the same line
+    - If someone told you to "assign (or set) x to one” you would write “x = 1"
