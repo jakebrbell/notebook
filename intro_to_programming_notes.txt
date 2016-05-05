@@ -35,3 +35,6 @@ Code as a spoken language
     - Blocks of code that do something
     - ex. a for loop, an if statement, variable assignment
     - In “var foo = 1 + 1” 1 + 1 is an expression, but the entire line is a statement
+- Evaluation
+    - The process of determining the process of determining the value of an expression. aka, “running the code"
+    - It involves reducing the expressions to their values following the order of operations
