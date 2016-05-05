@@ -19,3 +19,12 @@ Code as a spoken language
     - Operator
         - Almost like functions. They effectively perform some action.
         - Ex. +, -, /, *, %, >, <, >=, <=, +=, -=, /=, *=, ==, !=, ===, !===, &&, ||, in, instanceof, delete, new, void, typeof, ++, --
+- Literals
+    - They literally represent what they are (as opposed to a variable)
+    - Examples:
+        - String literal - “hello” or ‘howdy'
+        - Number literal - 42
+        - Boolean literal - true or false
+        - Array literal - [1, 2, 3, 4, 5]
+        - Object literal - { width: 10, height: 12 }
+    - Using the term literal can help to prevent confusion when talking to others about your code.
