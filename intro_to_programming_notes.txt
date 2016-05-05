@@ -38,3 +38,8 @@ Code as a spoken language
 - Evaluation
     - The process of determining the process of determining the value of an expression. aka, “running the code"
     - It involves reducing the expressions to their values following the order of operations
+
+A mental model of variables
+
+- Assignment
+    - When JavaScript reads code, it scans the file for any variable declarations and initially sets them to undefined. It then goes back to the top and starts executing (or running) each statement.
