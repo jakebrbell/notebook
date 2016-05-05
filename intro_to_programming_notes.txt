@@ -28,3 +28,10 @@ Code as a spoken language
         - Array literal - [1, 2, 3, 4, 5]
         - Object literal - { width: 10, height: 12 }
     - Using the term literal can help to prevent confusion when talking to others about your code.
+- Expressions
+    - Anything that results in a value
+    - ex. someVar or 1 + 1
+- Statements
+    - Blocks of code that do something
+    - ex. a for loop, an if statement, variable assignment
+    - In “var foo = 1 + 1” 1 + 1 is an expression, but the entire line is a statement
